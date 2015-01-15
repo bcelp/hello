@@ -4,6 +4,32 @@ New York M C:
 --- Spinal Tap performs Tonight I'm Gonna Rock You Tonight ---
 David: We are Spinal Tap from the UK you must be the USA!
 
+<<<<<<< HEAD
+--- Tonight I’m Gonna Rock You Tonight (lyrics) ---
+Little girl, it's a great big world but there's only one of me
+You can't touch 'cause I cost too much but
+Tonight I'm gonna rock you (Tonight I'm gunna rock you)
+Yeah tonight I'm gonna rock you (Tonight I'm gunna rock you)
+Tonight!
+You're sweet but you're just four feet
+And you still got your baby teeth
+You're too young and I'm too well hung
+Tonight I'm gonna rock you (Tonight I'm gunna rock you)
+Yeah onight I'm gonna rock you (Tonight I'm gunna rock you)
+Tonight!
+Whoa yeah
+You're hot, you take all we got, not a dry
+seat in the house
+Next day, we'll be on our way
+Tonight we're gonna rock you (Tonight we're gunna rock you)
+Yeah tonight we're gunna rock you (Tonight we're gunna rock
+you)
+Tonight!
+Chorus:
+Little girl, it's a great big world, but there's
+only one of - meeeee
+--- end of the song ---
+=======
 <Garden Interview I>
 Marty: Let's...uh talk a little bit about the history of the
  group. I understand Nigel you and David originally started
@@ -25,3 +51,4 @@ David: The Regulars, they changed their name back to The Regulars
  and we thought well, we could go back to The Originals but
  what's the point?
 Nigel: We became The Thamesmen at that point.
+>>>>>>> interviewSong
