@@ -4,6 +4,7 @@ New York M C:
 --- Spinal Tap performs Tonight I'm Gonna Rock You Tonight ---
 David: We are Spinal Tap from the UK you must be the USA!
 
+/*Debut de l'interview */
 <Garden Interview I>
 Marty: Let's...uh talk a little bit about the history of the
  group. I understand Nigel you and David originally started
