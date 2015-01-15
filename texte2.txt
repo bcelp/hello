@@ -4,6 +4,29 @@ New York M C:
 --- Spinal Tap performs Tonight I'm Gonna Rock You Tonight ---
 David: We are Spinal Tap from the UK you must be the USA!
 
+
+/*Debut de l'interview */
+<Garden Interview I>
+Marty: Let's...uh talk a little bit about the history of the
+ group. I understand Nigel you and David originally started
+ the band wuh...back in...when was it... 1964?
+David: Well before that we were in different groups, I was in a
+ group called The Creatures and w-which was a skiffle group.
+Nigel: I was in Lovely Lads.
+David: Yeah.
+Nigel: And then we looked at each other and says well we might as
+ well join up you know and uh....
+David: So we became The Originals.
+Nigel: Right.
+David: And we had to change our name actually....
+Nigel: Well there was, there was another group in the East End
+ called The Originals and we had to rename ourselves.
+David: The New Originals.
+Nigel: The New Originals and then, uh, they became....
+David: The Regulars, they changed their name back to The Regulars
+ and we thought well, we could go back to The Originals but
+ what's the point?
+Nigel: We became The Thamesmen at that point.
 /*Debut de la chanson*/
 --- Tonight I’m Gonna Rock You Tonight (lyrics) ---
 Little girl, it's a great big world but there's only one of me
