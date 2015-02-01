@@ -12,6 +12,11 @@ public function (test)
 
 }
 
+public function (master)
+{
+	le maitre c'est moi
+}
+
 public function (new branche)
 {
 	elle est pas mal
