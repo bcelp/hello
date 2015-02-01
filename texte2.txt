@@ -12,12 +12,13 @@ public function (test)
 
 }
 
-public function (master)
+public function (branche)
+{
+	la branche c'est moi
+}public function (master)
 {
 	le maitre c'est moi
-}
-
-public function (new branche)
+}public function (new branche)
 {
 	elle est pas mal
 	la nouvelle branche
