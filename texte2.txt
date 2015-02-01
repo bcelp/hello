@@ -1,15 +1,2 @@
-public function (test)
-{
-
-	test1
-
-}
-
-
-
-public function (test)
-{
-
-	test2
-
-}
+test23
+j'ajoute
