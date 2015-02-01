@@ -12,6 +12,11 @@ public function (test)
 
 }
 
+public function (new branche)
+{
+	la nouvelle branche
+}
+
 
 public function (test)
 {
