@@ -12,6 +12,7 @@
         echo "Non";
         echo "J'aime les fritas ssa !";
 		echo "fdp";
+		echo "tg";
 
         ?>
         
