@@ -9,7 +9,7 @@
       
         <?php
         
-        echo "J'aime les frites !";
+        echo "J'aime les fritas ssa !";
         ?>
         
         </body>
