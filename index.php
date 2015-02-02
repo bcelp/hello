@@ -8,12 +8,11 @@
     <body>
       
         <?php
-        
-<<<<<<< HEAD
+ 
         echo "Non";
-=======
         echo "J'aime les fritas ssa !";
->>>>>>> origin/master
+		echo "fdp";
+
         ?>
         
         </body>
